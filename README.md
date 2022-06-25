@@ -22,8 +22,8 @@ Les différences sont minimes une fois que vous utilisez OpenCore, mais cela peu
 5. Dépannage
 6. Trucs et astuces
 
-## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
+## <mark style="color:red;">Disclaimer</mark> <a href="#disclaimer" id="disclaimer"></a>
 
-Nous ne sommes pas responsables des appareils en briques, des disques durs morts, de la guerre thermonucléaire ou de votre licenciement parce que vous avez eu une panique du noyau et que vous n'avez pas enregistré votre travail. Vous êtes responsable de tout lire attentivement avant de faire quoi que ce soit. Faites vos recherches et demandez de l'aide si vous avez des questions ou des problèmes avant d'essayer des choses au hasard sur Internet parce que "c'est Internet". Si vous le faites, VOUS choisissez de suivre des choses aléatoires sur Internet, et si VOUS nous pointez du doigt pour avoir gâché votre appareil, NOUS rirons de vous.
+Nous ne sommes pas responsables des appareils qui on été briqués, des disques durs morts, de la guerre thermonucléaire ou de votre licenciement parce que vous avez eu un kernel panik et que vous n'avez pas enregistré votre travail. Vous êtes responsable de tout, lisez attentivement avant de faire quoi que ce soit. Faites vos recherches et demandez de l'aide si vous avez des questions ou des problèmes avant d'essayer des choses au hasard sur Internet parce que "c'est Internet". Si vous le faites, VOUS choisissez de suivre des choses aléatoires sur Internet, et si VOUS nous pointez du doigt pour avoir gâché votre appareil, NOUS rirons de vous.
 
 Maintenant que nous avons réglé cela, allons-y, et bonne chance.
